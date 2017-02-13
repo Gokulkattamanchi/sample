@@ -1,0 +1,37 @@
+{
+    "fixtures": [{
+             "team1": "Arsenal",
+             "team2": "Ludogorets Razgrad",
+             "image1": "arsenal.png",
+             "image2": "ludogoretsrazgrad.png",
+             "date": "Kick-off: 19:45pm Wednesday 23rd October, 2016",
+             "place": "Emirates Stadium",
+             "results1": " Live-now"
+             }, {
+                 "team1": "Arsenal",
+                 "team2": "Middlesbrough",
+                 "image1": "arsenal.png",
+                 "image2": "middlesbrough.png",
+                 "date": "Kick Off: 15:00pm Saturday 24th October, 2016",
+                 "place": "Emirates Stadium",
+                 "results1": " Live-now"
+             }, {
+                 "team1": "Arsenal",
+                 "team2": "Reading",
+                 "image1": "arsenal.png",
+                 "image2": "reading.png",
+                 "date": "Kick-off 19:45pm Tuesday 25 October, 2016",
+                 "place": "Emirates Stadium"
+             }, {
+                 "team1": "Sunderland",
+                 "team2": "Arsenal",
+                 "image1": "sunderland.png",
+                 "image2": "arsenal.png",
+                 "date": "Kick Off: 12.30pm Saturday 29th October, 2016",
+                 "place": "Stadium Of Light"
+             }]
+}
+
+
+
+

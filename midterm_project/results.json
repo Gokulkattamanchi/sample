@@ -1,0 +1,35 @@
+ {
+	"results_list": [{
+                "team1": "Arsenal",
+                "team2": "Ludogorets Razgrad",
+                "image1": "arsenal.png",
+                "image2": "ludogoretsrazgrad.png",
+                "result": "6-0",
+                "date": "Kick-off: 14:45pm Wednesday 22nd October, 2016",
+                "place": "Emirates Stadium"
+	}, {
+                "team1": "Arsenal",
+                "team2": "Swansea City",
+                "image1": "arsenal.png",
+                "image2": "swanseacity.png",
+                "result": "3-2",
+                "date": "Kick-off: 15:00pm Wednesday 15th October, 2016",
+                "place": "Emirates Stadium"
+	}, {
+                "team1": "Burnley",
+                "team2": "Arsenal",
+                "image1": "burnley.png",
+                "image2": "arsenal.png",
+                "result": "0-1",
+                "date": "Kick-off: 14:30pm Sunday 2nd October, 2016",
+                "place": "Turf Moor"
+    },{
+                "team1": "Arsenal",
+                "team2": "FC Basel",
+                "image1": "arsenal.png",
+                "image2": "fcbasel.png",
+                "result": "2-0",
+                "date": "Kick-off: 19:45pm Wednesday 28th September, 2016",
+                "place": "Emirates Stadium"
+                }]
+}
